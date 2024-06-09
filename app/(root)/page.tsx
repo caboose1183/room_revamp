@@ -4,9 +4,9 @@ import React from "react";
 function Home() {
   return (
     <div>
-      <p>Home</p>
+      {/* <p>Home</p>
 
-      <UserButton afterSignOutUrl="/" />
+      <UserButton afterSignOutUrl="/" /> */}
     </div>
   );
 }
