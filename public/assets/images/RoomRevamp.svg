@@ -1,0 +1,14 @@
+<svg width="168" height="27" viewBox="0 0 168 27" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simplified blue couch -->
+  <rect x="1" y="10" width="20" height="10" fill="#4682B4"/> <!-- Couch base -->
+  <rect x="1" y="7" width="5" height="3" fill="#3A66CC"/> <!-- Left armrest -->
+  <rect x="16" y="7" width="5" height="3" fill="#3A66CC"/> <!-- Right armrest -->
+  <ellipse cx="11" cy="7" rx="9" ry="3" fill="#3057A0"/> <!-- Backrest -->
+
+  <!-- Adjusted lamp stand to be taller and closer to the couch -->
+  <rect x="23" y="5" width="1" height="15" fill="#FFD700"/> <!-- Taller Lamp pole -->
+  <ellipse cx="23.5" cy="4" rx="3" ry="1.5" fill="#FFD700"/> <!-- Lamp head -->
+
+  <!-- Text "Room Revamp" with larger font size -->
+  <text x="35" y="20" font-family="Arial" font-size="20" fill="black">Room Revamp</text>
+</svg>
