@@ -1,5 +1,6 @@
 import { authMiddleware } from "@clerk/nextjs";
 
+//hooks
 export default authMiddleware({
   publicRoutes: ["/api/webhooks/clerk"],
 });
