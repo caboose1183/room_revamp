@@ -110,7 +110,7 @@ function TransformationForm({
         width: image?.width,
         height: image?.height,
         config: transformationConfig,
-        secureURL: image?.secureUrl,
+        secureURL: image?.secureURL,
         transformationURL: transformationUrl,
         aspectRatio: values.aspectRatio,
         prompt: values.prompt,
